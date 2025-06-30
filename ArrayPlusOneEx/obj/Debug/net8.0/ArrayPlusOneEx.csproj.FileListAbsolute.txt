@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\bin\Debug\net8.0\ArrayPlusOneEx.exe
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\bin\Debug\net8.0\ArrayPlusOneEx.deps.json
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\bin\Debug\net8.0\ArrayPlusOneEx.runtimeconfig.json
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\bin\Debug\net8.0\ArrayPlusOneEx.dll
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\bin\Debug\net8.0\ArrayPlusOneEx.pdb
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\ArrayPlusOneEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\ArrayPlusOneEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\ArrayPlusOneEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\ArrayPlusOneEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\ArrayPlusOneEx.dll
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\refint\ArrayPlusOneEx.dll
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\ArrayPlusOneEx.pdb
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\ArrayPlusOneEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\ArrayPlusOneEx\ArrayPlusOneEx\obj\Debug\net8.0\ref\ArrayPlusOneEx.dll
